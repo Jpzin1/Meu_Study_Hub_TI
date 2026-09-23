@@ -57,7 +57,7 @@ A versão 1.0 do portfólio foi desenvolvida com HTML, CSS e JavaScript, com foc
 - integração com GitHub e LinkedIn;
 - acessibilidade básica, incluindo navegação por teclado e preferência por movimento reduzido.
 
-Após a ativação do GitHub Pages, o site ficará disponível em:
+Endereço do site no GitHub Pages:
 
 **[jpzin1.github.io/Meu_Study_Hub_TI](https://jpzin1.github.io/Meu_Study_Hub_TI/)**
 
