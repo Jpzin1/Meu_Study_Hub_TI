@@ -2,6 +2,11 @@
 
 Bem-vindo ao meu Study Hub!
 
+[![Versão](https://img.shields.io/badge/vers%C3%A3o-1.0.0-54e1ba)](./CHANGELOG.md)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-site-74a7ff)](https://jpzin1.github.io/Meu_Study_Hub_TI/)
+
+> Repositório acadêmico e profissional com documentação, versionamento e uma página pública criada para o GitHub Pages.
+
 Este repositório foi criado como parte da disciplina **Bootcamp I**, do curso de **Ciência da Computação do CEUB**, com o objetivo de organizar minha trajetória acadêmica, projetos, estudos e evolução profissional na área de Tecnologia da Informação.
 
 ## Sobre mim
@@ -41,6 +46,32 @@ O Study Hub será utilizado para centralizar e organizar:
 
 O objetivo é registrar minha evolução acadêmica e construir gradualmente um portfólio que também possa representar minha trajetória profissional.
 
+## Página publicada
+
+A versão 1.0 do portfólio foi desenvolvida com HTML, CSS e JavaScript, com foco em:
+
+- apresentação acadêmica e profissional;
+- visualização das competências técnicas;
+- destaque para projetos e disciplinas;
+- navegação responsiva em computadores e celulares;
+- integração com GitHub e LinkedIn;
+- acessibilidade básica, incluindo navegação por teclado e preferência por movimento reduzido.
+
+Após a ativação do GitHub Pages, o site ficará disponível em:
+
+**[jpzin1.github.io/Meu_Study_Hub_TI](https://jpzin1.github.io/Meu_Study_Hub_TI/)**
+
+### Executar localmente
+
+Não é necessário instalar dependências. Basta baixar o repositório e abrir o arquivo `index.html` em um navegador.
+
+Arquivos principais da página:
+
+- `index.html`: conteúdo e estrutura semântica;
+- `styles.css`: identidade visual e responsividade;
+- `script.js`: menu móvel, animações e comportamento da navegação;
+- `CHANGELOG.md`: histórico das versões do projeto.
+
 ## Disciplinas atuais
 
 - Bootcamp I
@@ -55,6 +86,10 @@ O objetivo é registrar minha evolução acadêmica e construir gradualmente um 
 Meu_Study_Hub_TI/
 │
 ├── README.md
+├── CHANGELOG.md
+├── index.html
+├── styles.css
+├── script.js
 │
 ├── 01_Apresentacao_e_Perfil/
 │   └── README.md
@@ -90,6 +125,18 @@ Meu_Study_Hub_TI/
 ## Uso responsável das informações
 
 Este repositório contém apenas materiais acadêmicos, pessoais e públicos. Não serão publicados códigos, documentos, capturas de tela, dados, nomes de datasets, informações internas ou quaisquer materiais confidenciais da Accenture, do Banco do Brasil ou de seus clientes e parceiros.
+
+## Versionamento
+
+O projeto utiliza Git para registrar sua evolução. A página pública corresponde à versão **1.0.0**, documentada no [histórico de versões](./CHANGELOG.md).
+
+Fluxo adotado:
+
+1. planejamento da estrutura;
+2. desenvolvimento e revisão local;
+3. registro das alterações com commits descritivos;
+4. envio ao GitHub;
+5. publicação pelo GitHub Pages.
 
 ## Links profissionais
 
