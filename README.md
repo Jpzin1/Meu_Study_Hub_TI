@@ -72,6 +72,17 @@ Arquivos principais da página:
 - `script.js`: menu móvel, animações e comportamento da navegação;
 - `CHANGELOG.md`: histórico das versões do projeto.
 
+## Projetos do portfólio
+
+Os projetos abaixo possuem páginas de apresentação neste Study Hub. O código e o histórico de cada aplicação continuam em seus repositórios originais.
+
+| Projeto | Descrição | Documentação |
+| --- | --- | --- |
+| BibAgenda | Interface de sistema de biblioteca com React e TypeScript | [Conhecer o projeto](./03_Projetos_e_Certificados/Projetos_Pessoais/BibAgenda/README.md) |
+| Projeto Netflix | Projeto de estudo com catálogo e detalhes de filmes em Django | [Conhecer o projeto](./03_Projetos_e_Certificados/Projetos_Pessoais/Projeto_Netflix/README.md) |
+| Portfólio Angular | Apresentação de experiências, conhecimentos e projetos | [Conhecer o projeto](./03_Projetos_e_Certificados/Projetos_Pessoais/Angular_Portfolio/README.md) |
+| Toque de Mulher | E-commerce desenvolvido em equipe, com minha participação | [Conhecer o projeto e minha contribuição](./03_Projetos_e_Certificados/Projetos_Academicos/Toque_de_Mulher/README.md) |
+
 ## Disciplinas atuais
 
 - Bootcamp I
@@ -118,7 +129,15 @@ Meu_Study_Hub_TI/
 │
 └── 03_Projetos_e_Certificados/
     ├── Projetos_Academicos/
+    │   └── Toque_de_Mulher/
+    │       └── README.md
     ├── Projetos_Pessoais/
+    │   ├── BibAgenda/
+    │   │   └── README.md
+    │   ├── Projeto_Netflix/
+    │   │   └── README.md
+    │   └── Angular_Portfolio/
+    │       └── README.md
     └── Certificados/
 ```
 

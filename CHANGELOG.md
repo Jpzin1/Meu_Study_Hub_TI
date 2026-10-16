@@ -2,6 +2,13 @@
 
 Todas as alterações relevantes deste projeto são registradas neste arquivo.
 
+## Catálogo de projetos - 2026-10-16
+
+- Documentação individual de BibAgenda, Projeto Netflix e Portfólio Angular nas pastas de projetos pessoais.
+- Apresentação do Toque de Mulher, com autoria coletiva e descrição da participação de João Pedro.
+- Índices de navegação entre as áreas e links para os repositórios originais.
+- Atualização do README principal e da descrição da área de projetos na página publicada.
+
 ## Ajustes para publicação - 2026-09-23
 
 - Links das disciplinas e dos projetos direcionados às pastas no GitHub, onde os arquivos README são exibidos corretamente.
